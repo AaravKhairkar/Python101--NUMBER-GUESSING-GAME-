@@ -7,10 +7,10 @@ A command-line number guessing game built in Python as a learning project. It st
 ## Features
 
 - [x] Classic mode: guess the computer's number
-- [ ] Difficulty levels (easy, medium, hard) with limited attempts
-- [ ] Hot/cold hints based on how close your guess is
-- [ ] Input validation (no crashes on bad input)
-- [ ] Scoring based on attempts, difficulty, and time
+- [x] Difficulty levels (easy, medium, hard) with limited attempts
+- [x] Hot/cold hints based on how close your guess is
+- [x] Input validation (no crashes on bad input)
+- [x] Scoring based on attempts, difficulty, and time
 - [ ] Win streak counter
 - [ ] Persistent high-score leaderboard (saved to JSON)
 - [ ] Player profiles and stats
@@ -18,7 +18,7 @@ A command-line number guessing game built in Python as a learning project. It st
 - [ ] Timed mode
 - [ ] Two-player mode
 - [ ] Daily challenge
-- [ ] Power-ups and limited hints
+- [x] Limited hints
 - [ ] Achievements
 - [ ] Colored output and menus
 
@@ -99,4 +99,4 @@ This project is how I'm practicing Python: functions, classes, file handling, er
 
 ## License
 
-This project is licensed under the MIT License. Add a `LICENSE` file to the repo to match.
+This project is licensed under the MIT License.
